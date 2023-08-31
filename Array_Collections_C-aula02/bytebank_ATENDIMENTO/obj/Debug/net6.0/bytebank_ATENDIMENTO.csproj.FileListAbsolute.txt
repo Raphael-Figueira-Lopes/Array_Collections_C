@@ -1,0 +1,60 @@
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\temp\curso\curso_c_collections\Aula01\01\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\temp\curso\curso_c_collections\Aula02\02\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\temp\curso\curso_c_collections\Aula02\bytebank_ATENDIMENTO_BKP02\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\Array_Collections_C-aula02\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
