@@ -4,7 +4,7 @@ Projeto desenvolvido com C#.
 
 ## ℹ️ Sobre o projeto
 
-Este projeto consiste em mostrar em acessar e criar itens dentro de um array craindo um back-end de um aplicativo de cadastro.
+Este projeto consiste usar arrays para montar um back-end de cadastro.
 
 ## 📝 Tecnologias
 
